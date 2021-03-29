@@ -1,0 +1,112 @@
+.top {
+  width: 1000px;
+  height: 80px;
+  background-color: #3282ab;
+  color: white;
+  padding-top: 30px;
+}
+
+.top h2,
+.top h1 {
+  display: inline;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.top h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.middle h1,
+.middle h2 {
+  width: 1000px;
+  color: #3282ab;
+  margin-left: 30px;
+  font-size: 45px;
+}
+.top h1,
+.middle h1 {
+  font-family: Arial, Helvetica, serif;
+  font-weight: bold;
+}
+.paragraph1 {
+  width: 800px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 30px;
+}
+.paragraph2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 30px;
+  display: inline;
+}
+.discount {
+  display: inline;
+  color: #5884b0;
+  font-size: 25px;
+  font-weight: bold;
+}
+.whitebutton {
+  font-size: 20px;
+  font-family: Arial, Helvetica, serif;
+  font-weight: bold;
+  margin: 30px;
+  display: inline;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #ed801f;
+  border-radius: 20px;
+  color: #ed801f;
+  padding: 20px;
+}
+.website,
+.website-youtube,
+.website-facebook,
+.website-instagram {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 30px;
+  display: inline;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 3px 3px 2px 0px rgb(126, 122, 122, 0.4);
+}
+.website-instagram {
+  background-color: #9042f5;
+}
+.website-facebook {
+  background-color: #426ff5;
+}
+.website-youtube {
+  background-color: red;
+}
+.bottom {
+  width: 1000px;
+  height: 300px;
+  background-color: #3282ab;
+  color: white;
+  padding-top: 30px;
+}
+.bottom h1 {
+  padding-left: 30px;
+  font-family: Arial, Helvetica, serif;
+  font-weight: lighter;
+}
+.bottom h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.city-gyms {
+  padding-left: 65px;
+  font-family: Arial, Helvetica, serif;
+  font-size: 20px;
+}
